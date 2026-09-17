@@ -1,0 +1,7 @@
+# Python
+___pycache__/
+*.py[cod]
+
+#
+/combined_alphabet_pngs/
+/combined_augmented_images/
