@@ -5,3 +5,16 @@ ___pycache__/
 #
 /combined_alphabet_pngs/
 /combined_augmented_images/
+
+# Environment / secrets
+.venv/
+venv/
+.env
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
